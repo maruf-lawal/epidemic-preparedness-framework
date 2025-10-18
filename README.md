@@ -1,3 +1,5 @@
+![Epidemic Preparedness Framework](banner.png)
+
 # Epidemic Preparedness Framework
 
 ## Overview
