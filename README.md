@@ -87,3 +87,61 @@ epidemic-preparedness-framework/
 │
 ├── LICENSE
 └── README.md
+```
+
+These modules are being progressively developed as part of an integrated research program. Documentation, computational models, validation workflows, figures, and results will be added as individual components are implemented and evaluated.
+
+## Methodological Foundation
+
+The framework builds on research experience in:
+
+- mathematical epidemiology and nonlinear dynamical systems;
+- behavioral epidemic modeling;
+- calibration of epidemic models to surveillance data;
+- sensitivity and uncertainty analysis;
+- optimal control of dynamic systems;
+- statistical and time-series forecasting; and
+- reproducible scientific computing.
+
+Although these methods are applicable across infectious-disease settings, **the current implementation priority is influenza**, including seasonal influenza and emerging influenza threats with pandemic potential.
+
+## Reproducibility and Open Research
+
+A central objective of this project is to make the computational methods transparent and reproducible.
+
+As individual components are completed, this repository will provide, where appropriate:
+
+- mathematical model specifications;
+- documented source code;
+- parameter assumptions;
+- data-processing procedures;
+- simulation and forecasting workflows;
+- validation procedures;
+- figures and numerical results; and
+- instructions for reproducing principal analyses.
+
+Only data that can be shared in accordance with applicable use restrictions will be included.
+
+## Research Development
+
+This repository is an **active research framework**. Components may therefore differ in their stage of development.
+
+The longer-term objective is to integrate behavioral modeling, intervention optimization, and forecasting into a modular quantitative framework in which:
+
+**surveillance and forecasting inform near-term epidemic risk → behavioral models represent changing vaccination response → optimization methods evaluate alternative intervention strategies under uncertainty and resource constraints.**
+
+The resulting methods are intended to support reproducible scientific analysis and to provide quantitative tools that researchers and public-health analysts can evaluate, extend, and adapt to influenza preparedness questions.
+
+## Author
+
+**Maruf A. Lawal**  
+Department of Mathematics  
+University of Tennessee, Knoxville
+
+Research interests: mathematical epidemiology, mathematical biology, optimal control, outbreak forecasting, data science, and machine learning.
+
+GitHub: [maruf-lawal](https://github.com/maruf-lawal)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
